@@ -18,4 +18,28 @@ La documentación detallada de cada módulo se encuentra en su respectiva carpet
 - **Frontend** → [`frontend/README.md`](./frontend/README.md)
 
 ## Inicio rápido
+
+### 1. Clonar el repositorio
+
+```bash
+git clone https://github.com/freiman-uribe/WoowTechnology_prueba.git
+cd WoowTechnology_prueba
+```
+
+### 2. Instalar y ejecutar el Backend
+
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+### 3. Instalar y ejecutar el Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
 > Consulta el README de cada carpeta para conocer los requisitos, variables de entorno y configuración específica.
